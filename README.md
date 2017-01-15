@@ -2,4 +2,4 @@
 智能选股sdk
 
 #智能选股
-- [StockSdk](https://github.com/momo145/SmartStock)
+- [智能选股android](https://github.com/momo145/SmartStock)
